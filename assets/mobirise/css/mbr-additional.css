@@ -1053,7 +1053,7 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/bild2-2000x1125.jpg");
+  background-image: url("../../../assets/images/fallback-image-2000x1125.png");
 }
 .cid-tnmaZeMSWA {
   padding-top: 4rem;
