@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'UniNeueHeavy';
+   font-display: swap;
+   src: url('UniNeueHeavy/font.ttf');
+}
+@font-face {
+   font-family: 'UniNeueBold';
+   font-display: swap;
+   src: url('UniNeueBold/font.ttf');
+}
