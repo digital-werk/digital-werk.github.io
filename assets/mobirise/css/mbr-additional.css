@@ -1071,6 +1071,9 @@ a {
 .cid-tnb9idMXsV img,
 .cid-tnb9idMXsV .item-img {
   width: 100%;
+  height: 100%;
+  height: 300px;
+  object-fit: cover;
 }
 .cid-tnb9idMXsV .item:focus,
 .cid-tnb9idMXsV span:focus {
