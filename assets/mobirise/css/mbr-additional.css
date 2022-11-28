@@ -1804,9 +1804,6 @@ a {
 .cid-tnbjxVC05k img,
 .cid-tnbjxVC05k .item-img {
   width: 100%;
-  height: 100%;
-  height: 100px;
-  object-fit: cover;
 }
 .cid-tnbjxVC05k .item:focus,
 .cid-tnbjxVC05k span:focus {
@@ -1858,9 +1855,6 @@ a {
 .cid-tnbjBmJTc6 img,
 .cid-tnbjBmJTc6 .item-img {
   width: 100%;
-  height: 100%;
-  height: 100px;
-  object-fit: cover;
 }
 .cid-tnbjBmJTc6 .item:focus,
 .cid-tnbjBmJTc6 span:focus {
@@ -1905,7 +1899,7 @@ a {
   text-align: left;
 }
 .cid-tnm59Tvz2g {
-  padding-top: 10rem;
+  padding-top: 0rem;
   padding-bottom: 10rem;
   background-color: #ffffff;
 }
@@ -1913,7 +1907,7 @@ a {
 .cid-tnm59Tvz2g .item-img {
   width: 100%;
   height: 100%;
-  height: 100px;
+  height: 500px;
   object-fit: cover;
 }
 .cid-tnm59Tvz2g .item:focus,
@@ -1923,6 +1917,14 @@ a {
 .cid-tnm59Tvz2g .item {
   cursor: pointer;
   margin-bottom: 2rem;
+}
+.cid-tnm59Tvz2g .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+.cid-tnm59Tvz2g .item {
+  padding: 0;
+  margin: 0;
 }
 .cid-tnm59Tvz2g .item-wrapper {
   position: relative;
