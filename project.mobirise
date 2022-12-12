@@ -118,7 +118,7 @@
     "versionPublish": "5.6.13",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/favsimple-54x27_1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favsimplesquare-53x53.png",
     "mbrsiteDomain": "fuhs3mo2kr",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
